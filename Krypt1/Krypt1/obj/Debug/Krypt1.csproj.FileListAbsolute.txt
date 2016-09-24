@@ -1,0 +1,11 @@
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\bin\Debug\Krypt1.exe.config
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\bin\Debug\Krypt1.exe
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\bin\Debug\Krypt1.pdb
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.csprojResolveAssemblyReference.cache
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.Properties.Resources.resources
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.csproj.GenerateResource.Cache
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.exe
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.pdb
+c:\users\dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.FormMain.resources
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.Gamm.resources
+C:\Users\Dasha\documents\visual studio 2013\Projects\Krypt1\Krypt1\obj\Debug\Krypt1.Cezar.resources
